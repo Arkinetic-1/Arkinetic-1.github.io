@@ -2,3 +2,7 @@ body {
     background-color: rgb(39, 38, 43);
     color: white;
 }
+
+a {
+    font-family: "orbitron", sans-serif;
+}
