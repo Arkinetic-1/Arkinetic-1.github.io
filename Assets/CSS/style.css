@@ -7,7 +7,10 @@ a {
     font-family: "orbitron", sans-serif;
 }
 
-.bg-secondary {
+.bg-head {
     background-image: linear-gradient(to right, #010104, #040b4d);
 }
 
+.bg-main {
+    background-color: #565360;
+}
