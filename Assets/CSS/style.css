@@ -1,3 +1,4 @@
+/*Colors*/
 body {
     background-color: rgb(39, 38, 43);
     color: white;
@@ -11,11 +12,11 @@ body {
     background-color: #565360;
 }
 
-hr {
-    margin-top: 1px;
-    margin-bottom: 2px;
+.bg-carousel {
+    background-color: #7a7687;
 }
 
+/*Text*/
 .orb {
     font-family: "orbitron", sans-serif;
 }
@@ -29,3 +30,13 @@ hr {
     font-family: "zen dots", sans-serif;
 }
 
+.textshad {
+    text-shadow: 2px 2px black;
+}
+
+hr {
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+
+/*Carousel*/
