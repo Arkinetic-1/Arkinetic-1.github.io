@@ -13,7 +13,7 @@ body {
 }
 
 .bg-carousel {
-    background-color: #7a7687;
+    background-image: linear-gradient(to top, #43404a, #9f9ab5);
 }
 
 /*Text*/
