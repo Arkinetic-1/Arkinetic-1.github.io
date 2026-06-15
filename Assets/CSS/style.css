@@ -3,10 +3,6 @@ body {
     color: white;
 }
 
-a {
-    font-family: "orbitron", sans-serif;
-}
-
 .bg-head {
     background-image: linear-gradient(to right, #010104, #040b4d);
 }
@@ -15,12 +11,21 @@ a {
     background-color: #565360;
 }
 
+hr {
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+
+.orb {
+    font-family: "orbitron", sans-serif;
+}
+
 .aud {
     font-family: "audiowide", sans-serif;
     font-size: 24px;
 }
 
-hr {
-    margin-top: 1px;
-    margin-bottom: 2px;
+.zen {
+    font-family: "zen dots", sans-serif;
 }
+
