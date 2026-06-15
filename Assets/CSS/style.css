@@ -9,7 +9,7 @@ body {
 }
 
 .bg-main {
-    background-color: #565360;
+    background-image: linear-gradient(to bottom, #565360, #797589);
 }
 
 .bg-carousel {
