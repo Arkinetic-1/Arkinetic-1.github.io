@@ -14,3 +14,13 @@ a {
 .bg-main {
     background-color: #565360;
 }
+
+.aud {
+    font-family: "audiowide", sans-serif;
+    font-size: 24px;
+}
+
+hr {
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
