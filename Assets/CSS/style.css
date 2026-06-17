@@ -28,6 +28,7 @@ body {
 
 .zen {
     font-family: "zen dots", sans-serif;
+    color: white;
 }
 
 .textshad {
@@ -39,4 +40,3 @@ hr {
     margin-bottom: 2px;
 }
 
-/*Carousel*/
