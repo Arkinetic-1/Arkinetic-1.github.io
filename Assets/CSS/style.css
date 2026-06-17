@@ -35,8 +35,12 @@ body {
     text-shadow: 2px 2px black;
 }
 
+/*Utilities*/
 hr {
     margin-top: 1px;
     margin-bottom: 2px;
 }
 
+.shad {
+    box-shadow: 4px 4px black
+}
