@@ -48,3 +48,13 @@ hr {
 .links {
     margin-left: 145px;
 }
+
+.ts9case {
+    background-color: #53AC53;
+}
+
+.ts9plate {
+    background-color: #BBC2CC;
+    border-color: #010104;
+    border-width: 3px;
+}
