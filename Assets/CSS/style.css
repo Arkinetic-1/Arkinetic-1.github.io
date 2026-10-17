@@ -54,6 +54,12 @@ hr {
     margin-left: 145px;
 }
 
+/*Pedals*/
+
+.stomp {
+    background-image: linear-gradient(to left, #A9A9A9, #D3D3D3);
+}
+
 .ts9case {
     background-color: #53AC53;
 }
