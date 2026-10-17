@@ -58,3 +58,13 @@ hr {
     border-color: #010104;
     border-width: 3px;
 }
+
+.kloncase {
+    background-color: #c97f04;
+}
+
+
+.klontext {
+    font-family: 'Times New Roman', Times, serif;
+    color: #401f16
+}
